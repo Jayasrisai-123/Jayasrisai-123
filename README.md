@@ -1,6 +1,6 @@
 ![logo](https://github.com/Jayasrisai-123/Jayasrisai-123/blob/main/917b901a-ec9f-47ab-b6aa-b8dc56bed0e2.jfif)
 <h1 align="center">Hi 👋, I'm Nagandla.Jayasri Sai</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasrisai-123&label=Profile%20views&color=0e75b6&style=flat" alt="jayasrisai-123" /> </p>
