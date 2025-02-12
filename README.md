@@ -1,4 +1,4 @@
-![logo](https://github.com/Jayasrisai-123/Jayasrisai-123/blob/main/jaya.jpeg)
+
 <h1 align="center">Hi 👋, I'm Nagandla.Jayasri Sai</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
