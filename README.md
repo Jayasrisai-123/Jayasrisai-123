@@ -1,4 +1,3 @@
-![logo](https://github.com/Jayasrisai-123/Jayasrisai-123/blob/main/917b901a-ec9f-47ab-b6aa-b8dc56bed0e2.jfif)
 <h1 align="center">Hi 👋, I'm Nagandla.Jayasri Sai</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
